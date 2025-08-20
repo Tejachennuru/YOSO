@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+ytmusicapi==1.9.1
+yt-dlp==2025.01.14
+requests==2.32.3
+pydantic==2.10.6
+python-multipart==0.0.20
+keyring==25.6.0
+pywin32-ctypes==0.2.3
+
