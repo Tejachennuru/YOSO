@@ -369,7 +369,10 @@ export default function MusicPlayer() {
       <div className="main-section">
         <header className="header">
           <div className="container header-row">
+            <div>
             <h1 className="brand">🎵 YOSO</h1>
+            <p className='brandby'>By The TechX</p>
+            </div>
             <div className="search-wrap">
               <input
                 value={query}
